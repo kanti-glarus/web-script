@@ -1,6 +1,5 @@
 # Web: Vorbereitung
 
-
 | [zurück](./Begriffe.md) | [vorwärts](tbd) |
 | --- | --- |
 
@@ -10,6 +9,9 @@ Um eine Webseite zu erstellen, benötigen wir folgende Programme:
 
 - [Browser](#browser)
 - [Editor](#editor)
+- [FTP-Client](#ftp)
+
+---
 
 ### <a name="browser">Browser</a>
 Webseiten werden meist in einem Browser dargestellt und können da betrachtet und getestet werden.
@@ -46,15 +48,17 @@ Moderne Browser sind:
 ![Badge](https://img.shields.io/badge/Browser-unsicher-red)
 
 <details>
-    <summary>Einblenden</summary>
+<summary>Einblenden</summary>
 
-    - Internet Explorer
-    - Netscape
-    - Mosaic
+- Internet Explorer
+- Netscape
+- Mosaic
 
-    Diese Browser sollten nicht verwendet werden, da sie nicht mehr den neusten Sicherheitsanforderungen entsprechen.
+Diese Browser sollten nicht verwendet werden, da sie nicht mehr den neusten Sicherheitsanforderungen entsprechen.
 </details>
- 
+
+---
+
 ### <a name="editor">Editoren</a>
 
 Webseiten können nicht direkt im Browser bearbeitet werden. Die Bearbeitung ist oft am einfachsten,
@@ -105,6 +109,8 @@ Spezialisiert für die Programmierung von Webapplikationen und Webprojekten die 
 Kann auf den Schulcomputern via [Download](https://www.jetbrains.com/de-de/phpstorm/) installiert werden.
 Die Nutzung von Jetbrains-Software ist kostenpflichtig, für Schülerinnen, Schüler und Studierende gibt es eine Gratislizenz.
 Dazu muss zuerst eine [Anmeldung](https://www.jetbrains.com/shop/eform/students) mit der persönlichen Emailadresse der Schule durchgeführt werden. 
+
+---
 
 ### <a name="ftp">FTP-Client</a>
 
