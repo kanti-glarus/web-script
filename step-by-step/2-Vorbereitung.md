@@ -1,9 +1,9 @@
 # Web: Vorbereitung
 
-| [zurück](./1-Begriffe.md) | [vorwärts](tbd) |
+| [zurück](./1-Begriffe.md) | [vorwärts][1] |
 | --- | --- |
 
-## Installationen
+## Programme
 
 Um eine Webseite zu erstellen, benötigen wir folgende Programme:
 
@@ -110,6 +110,13 @@ Kann auf den Schulcomputern via [Download](https://www.jetbrains.com/de-de/phpst
 Die Nutzung von Jetbrains-Software ist kostenpflichtig, für Schülerinnen, Schüler und Studierende gibt es eine Gratislizenz.
 Dazu muss zuerst eine [Anmeldung](https://www.jetbrains.com/shop/eform/students) mit der persönlichen Emailadresse der Schule durchgeführt werden. 
 
+#### CodePen
+
+![Badge](https://img.shields.io/static/v1?label=Editor&message=Entwicklungsumgebung%20online&color=blue)
+
+Bei [Codepen](https://codepen.io) findest du eine Online-Umgebung, um einseitige Webseiten (HTML, CSS und Javascript) zu testen.
+Du kannst dir einen Account erstellen und dann verschiedene "Pens" erstellen. Du findest auch viele "Pens" von Profis, wo du sicherlich [Inspiration](https://codepen.io/trending) findest.
+
 ---
 
 ### <a name="ftp">FTP-Client</a>
@@ -124,4 +131,16 @@ Mit dem FTP-Client und den nötigen Zugangsdaten kannst du dich mit dem Server v
 
 Mit Cyberduck kannst du dich mit verschiedensten Servern verbinden, unter anderem auch mit den normalen
 FTP-Servern.
-Hier findest du den [Download](https://cyberduck.io/). Auf den Schulcomputern gibt es im Moment aber keine Möglichkeit, das Programm zu installieren. 
+Hier findest du den [Download](https://cyberduck.io/). Auf den Schulcomputern gibt es im Moment aber keine Möglichkeit, das Programm zu installieren.
+
+---
+
+### Installation
+
+Für die weiteren Schritte benötigst du einen [Browser](#browser) und einen [Editor](#editor).
+
+---
+**Starten wir mit HTML**
+Nun erstellen wir eine erste [HTML-Seite][1]: [Schritt 3: HTML-Grundlagen][1]
+
+[1]: 3-HTML-Grundlagen.md
