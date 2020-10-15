@@ -1,6 +1,6 @@
 # Web: Vorbereitung
 
-| [zurück](./Begriffe.md) | [vorwärts](tbd) |
+| [zurück](./1-Begriffe.md) | [vorwärts](tbd) |
 | --- | --- |
 
 ## Installationen
