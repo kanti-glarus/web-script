@@ -32,7 +32,7 @@ Das Verhältnis von `20` zu `80` ist gleich wie das Verhältnis von `10` zu `x`.
 - Was für Elemente eignen sich am Besten?
 
 <details>
-<summary> **Lösungsvorschlag** </summary>
+<summary>Lösungsvorschlag</summary>
 
 - Titel: `<h1>`
 - Eventuell Text für Erklärung: `<p>`
@@ -52,7 +52,7 @@ Bei dieser Aufgabe gibt es nicht die eine Lösung. Aber immer einen Lösungsvors
 - Zeichne eine kleine Skizze, wie die Elemente dargestellt werden sollen
 
 <details>
-<summary> **Lösungsvorschlag** </summary>
+<summary>Lösungsvorschlag</summary>
 
 ![Skizze](../dreisatz/skizze.png)
 
