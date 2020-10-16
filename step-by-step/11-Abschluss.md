@@ -14,7 +14,7 @@ Du hast nun dein erstes Webprojekt erstellt. Wenn du Zugang zu einem Server hast
 
 ## Dreisatz Rechner
 
-Hier in diesem Github-Repository findest du einen [Lösungsvorschlag](../dreisatz/loesung) für diesen Dreisatz-Rechner.
+Hier in diesem Github-Repository findest du einen [Lösungsvorschlag](https://github.com/kanti-glarus/html-dreisatz) für diesen Dreisatz-Rechner.
 Du kannst den Rechner auch online anschauen und testen: [kanti-glarus.github.io/dreisatz](https://kanti-glarus.github.io/dreisatz).
 
 ---
