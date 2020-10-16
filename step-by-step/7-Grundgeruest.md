@@ -23,6 +23,6 @@ Bei dieser Aufgabe gibt es nicht die eine Lösung. Aber immer einen Lösungsvors
 
 ---
 
-Wir wissen also nun, was wir umsetzen möchten. Lass uns mit dem [Grundgerüst][1] starten: [Schritt 7: Grundgerüst][1]
+Wir haben das Grundgerüst, lass uns mit dem [HTML][1] weiterfahren: [Schritt 8: HTML][1]
 
-[1]: 7-Grundgeruest.md
+[1]: 8-Dreisatz-HTML.md
