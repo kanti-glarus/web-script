@@ -6,7 +6,7 @@
 
 Du hast gelernt, dass eine einfache Webseite mit `HTML`, `CSS` und `Javascript` gebaut werden kann.
 
-**Herzliche Gratulation!**
+**Herzliche Gratulation!** 👍
 
 Du hast nun dein erstes Webprojekt erstellt. Wenn du Zugang zu einem Server hast, kannst du dieses direkt auf dem Server hochladen und in Zukunft benutzen.
 
@@ -41,8 +41,9 @@ Mit `CSS` kannst du die Inhalte formatieren und gestalten. [CSS-Grundlagen](4-CS
 ### Javascript
 
 Mit `Javascript` kann die Webseite dynamisch ergänzt und verändert werden. [Javascript-Grundlagen](5-Javascript-Grundlagen.md).
+
 Du hast gelernt, wie du Berechnungen durchführen kannst.
 
 ---
 
-*Nun wünschen wir dir viel Spass bei deinen eigenen Webprojekten!*
+🎉 *Nun wünschen wir dir viel Spass bei deinen eigenen Webprojekten!*
