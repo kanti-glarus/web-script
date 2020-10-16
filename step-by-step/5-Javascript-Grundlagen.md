@@ -18,7 +18,7 @@ Inline-Elemente werden gemeinsam mit dem Inhalt geladen und ausgeführt.
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="script" href="link/zur/javascript/header-script.js" />
+        <link rel="script" href="link/zum/javascript/header/script.js" />
     </head>
     <body>
         <!-- Inhalt -->
@@ -28,7 +28,7 @@ Inline-Elemente werden gemeinsam mit dem Inhalt geladen und ausgeführt.
             console.log('Hello World');
         </script>
 
-        <link rel="script" href="link/zur/javascript/body-script.js" />
+        <script src="link/zum/javascript/body/script.js"></script>
     </body>
 </html>
 ```
@@ -88,13 +88,13 @@ box.innerHTML = '<p>Das ist ein Text</p>';
 
 ![Badge](https://img.shields.io/badge/Aufgabe-Ausprobieren-orange)
 
-- Du findest bei den [Beispielen](../examples) ein [CSS-Beispiel](../examples/css-grundlagen).
+- Du findest bei den [Beispielen](../examples) ein [Javascript-Beispiel](../examples/javascript-grundlagen).
 - Lade den Ordner herunter und öffne das `index.html` im Browser.
-- Öffne nun die Dokumente im Editor und schau dir die HTML und CSS Grundlagen an.
+- Öffne nun die Dokumente im Editor und schau dir die HTML und Javascript Grundlagen an.
 - Ausprobieren!
 
 Du merkst vielleicht, dass in Javascript ganz viele Dinge möglich sind (eigentlich Alles).
-So macht es Sinn, zuerst zu überlegen was man umsetzen möchte und erst dann herauszufinden, wie man das macht.
+Deshalb macht es Sinn, zuerst zu überlegen was man umsetzen möchte und erst dann herauszufinden, wie man das macht.
 
 ---
 
