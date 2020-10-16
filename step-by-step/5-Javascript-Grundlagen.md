@@ -53,8 +53,8 @@ console.log('was immer du ausgeben möchtest');
 Beim Programmieren benötigst du sehr oft Variabeln und Funktionen. Im folgenden Beispiel wird nach dem Laden der Webseite die Breite und Höhe der Webseite berechnet und ausgegeben.
 
 ```javascript
-var width = 0;
-var height = 0;
+let width = 0;
+let height = 0;
 
 function getWindowSize() {
   width = window.innerWidth;
@@ -76,7 +76,7 @@ Mit Hilfe vom `document`-Element kann via Javascript das ganze HTML-Dokument ver
 ```
 
 ```javascript
-var box = document.getElementById('box-1');
+const box = document.getElementById('box-1');
 
 box.style.backgroundColor = 'green';
 box.innerHTML = '<p>Das ist ein Text</p>';
