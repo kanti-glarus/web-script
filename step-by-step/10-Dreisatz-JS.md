@@ -1,4 +1,4 @@
-# Web: Styling
+# Web: Dynamik
 
 | [zurück](./9-Dreisatz-CSS.md) | [vorwaerts][1] |
 | --- | --- |
@@ -12,7 +12,7 @@
 - Lies für die Berechnung die drei Input-Felder aus
 - Führe die Rechnung aus und 
 - Setze das Resultat ins Resultate-Feld ein.
-- Füge alle neuen Styles in dein `style.css` ein.
+- Füge alle neuen Styles in dein `script.js` ein.
 
 Hier folgen ein paar Hinweise.
 
