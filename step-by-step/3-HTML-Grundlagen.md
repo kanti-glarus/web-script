@@ -164,4 +164,4 @@ Ein Bild mit der Bildquelle.
 Du hast deine erste HTML-Seite erstellt. Nun gehts weiter mit [CSS][1]: [Schritt 4: CSS-Grundlagen][1]
 
 
-[1]: CSS-Grundlagen.md
+[1]: 4-CSS-Grundlagen.md
