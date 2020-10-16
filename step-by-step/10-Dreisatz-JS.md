@@ -3,7 +3,7 @@
 | [zurück](./9-Dreisatz-CSS.md) | [vorwaerts][1] |
 | --- | --- |
 
-## CSS
+## Javascript
 
 ![Badge](https://img.shields.io/static/v1?label=Aufgabe&message=Du%20bist%20dran&color=orange)
 
