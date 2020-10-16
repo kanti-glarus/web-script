@@ -1,6 +1,6 @@
 # Web: Styling
 
-| [zurück](./8-Dreisatz-HTML.md) | [vorwärts][1] |
+| [zurück](08-Dreisatz-HTML.md) | [vorwärts][1] |
 | --- | --- |
 
 ## CSS

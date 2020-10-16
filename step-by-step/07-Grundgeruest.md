@@ -1,6 +1,6 @@
 # Web: Unser Grundgerüst
 
-| [zurück](./6-Projektanleitung.md) | [vorwärts][1] |
+| [zurück](06-Projektanleitung.md) | [vorwärts][1] |
 | --- | --- |
 
 ## HTML, Javascript & CSS
@@ -25,4 +25,4 @@ Bei dieser Aufgabe gibt es nicht die eine Lösung. Aber immer einen Lösungsvors
 
 Wir haben das Grundgerüst, lass uns mit dem [HTML][1] weiterfahren: [Schritt 8: HTML][1]
 
-[1]: 8-Dreisatz-HTML.md
+[1]: 08-Dreisatz-HTML.md

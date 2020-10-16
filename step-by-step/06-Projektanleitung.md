@@ -1,6 +1,6 @@
 # Web: Das erste Webprojekt
 
-| [zurück](./5-Javascript-Grundlagen.md) | [vorwärts][1] |
+| [zurück](05-Javascript-Grundlagen.md) | [vorwärts][1] |
 | --- | --- |
 
 ## Einstieg
@@ -65,4 +65,4 @@ PS: Diese Skizze habe ich mit dem Tool [app.diagrams.net](https://app.diagrams.n
 
 Wir wissen also nun, was wir umsetzen möchten. Lass uns mit dem [Grundgerüst][1] starten: [Schritt 7: Grundgerüst][1]
 
-[1]: 7-Grundgeruest.md
+[1]: 07-Grundgeruest.md

@@ -1,6 +1,6 @@
 # Web: CSS-Grundlagen
 
-| [zurück](./3-HTML-Grundlagen.md) | [vorwärts][1] |
+| [zurück](03-HTML-Grundlagen.md) | [vorwärts][1] |
 | --- | --- |
 
 ## CSS
@@ -318,4 +318,4 @@ Du findest im Internet eine grosse und [detaillierte Übersicht](https://www.w3s
 Deine HTML-Seite kann nun formatiert werden. Nun gehts weiter mit [Javascript][1]: [Schritt 5: Javascript-Grundlagen][1]
 
 
-[1]: 5-Javascript-Grundlagen.md
+[1]: 05-Javascript-Grundlagen.md

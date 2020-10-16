@@ -1,6 +1,6 @@
 # Web: Javascript-Grundlagen
 
-| [zurück](./4-CSS-Grundlagen.md) | [vorwärts][1] |
+| [zurück](04-CSS-Grundlagen.md) | [vorwärts][1] |
 | --- | --- |
 
 ## Einbindung
@@ -104,4 +104,4 @@ Inhalt und Formatierung und Dynamische Veränderung sind nun möglich.
 
 Am Besten erstellen wir nun ein kleines Projekt. Dazu gibt es ebenfalls eine Anleitung: [Schritt 6: Projektanleitung][1]
 
-[1]: 6-Projektanleitung.md
+[1]: 06-Projektanleitung.md

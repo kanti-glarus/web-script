@@ -1,6 +1,6 @@
 # Web: HTML-Elemente
 
-| [zurück](./7-Grundgeruest.md) | [vorwärts][1] |
+| [zurück](07-Grundgeruest.md) | [vorwärts][1] |
 | --- | --- |
 
 ## HTML
@@ -48,4 +48,4 @@ Bei dieser Aufgabe gibt es nicht die eine Lösung. Aber immer einen Lösungsvors
 
 Das HTML ist nun vorbereitet, jetzt müssen wir es via [CSS][1] gestalten: [Schritt 9: CSS][1]
 
-[1]: 9-Dreisatz-CSS.md
+[1]: 09-Dreisatz-CSS.md

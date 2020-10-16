@@ -1,6 +1,6 @@
 # Web: Vorbereitung
 
-| [zurück](./1-Begriffe.md) | [vorwärts][1] |
+| [zurück](01-Begriffe.md) | [vorwärts][1] |
 | --- | --- |
 
 ## Programme
@@ -143,4 +143,4 @@ Für die weiteren Schritte benötigst du einen [Browser](#browser) und einen [Ed
 **Starten wir mit HTML**
 Nun erstellen wir eine erste [HTML-Seite][1]: [Schritt 3: HTML-Grundlagen][1]
 
-[1]: 3-HTML-Grundlagen.md
+[1]: 03-HTML-Grundlagen.md

@@ -164,4 +164,4 @@ FTP ist das "FileTransferProtokoll", also das Protokoll um Dateien zu übertrage
 Nun gehts weiter mit den Programmen, die zum Starten benötigst: [Schritt 2: Vorbereitung][1]
 
 
-[1]: 2-Vorbereitung.md
+[1]: 02-Vorbereitung.md

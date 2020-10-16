@@ -1,6 +1,6 @@
 # Web: Dynamik
 
-| [zurück](./9-Dreisatz-CSS.md) | [vorwaerts][1] |
+| [zurück](09-Dreisatz-CSS.md) | [vorwaerts][1] |
 | --- | --- |
 
 ## Javascript
