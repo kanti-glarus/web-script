@@ -127,21 +127,24 @@ Die allerwichtigsten möchten wir hier aber auflisten und erläutern.
 
 <form action="/link-zur-verarbeitung">
     Ein Formular, damit verschiedene User-Inputs verarbeitet werden können.
+
+    Die folgenden Elemente gehören eigentlich immer in ein Form-Element:
+    
+    <input>
+    Ein User-Input-Feld für kurze Eingaben durch den User
+
+    <button>Ein Knopf zum drücken</button>
+
+    <textarea>Grösseres Textfeld für die Usereingabe</textarea>
+    
+    <select name="dropdown">
+      <option value="">Dropdown</option>
+      <option value="">Element</option>
+      <option value="">für eine</option>
+      <option value="">User-Auswahl</option>
+    </select>
+
 </form>
-
-<input>
-Ein User-Input-Feld für kurze Eingaben durch den User
-
-<button>Ein Knopf zum drücken</button>
-
-<textarea>Grösseres Textfeld für die Usereingabe</textarea>
-
-<select name="dropdown">
-  <option value="">Dropdown</option>
-  <option value="">Element</option>
-  <option value="">für eine</option>
-  <option value="">User-Auswahl</option>
-</select>
 
 <img src="https://via.placeholder.com/350x150" />
 Ein Bild mit der Bildquelle.
@@ -155,6 +158,7 @@ Ein Bild mit der Bildquelle.
 - Du findest bei den [Beispielen](../examples) ein [leeres HTML-Dokument](../examples/leeres-html.html).
 - Lade das Dokument herunter und öffne es im Browser. Es sollte leer sein.
 - Öffne das Dokument im Editor und füge HTML-Elemente ein
+- Finde heraus, wie du ein Video (z.B. von Youtube) in dieser HTML-Seite einbinden kannst
 - Ausprobieren!
 
 ---
