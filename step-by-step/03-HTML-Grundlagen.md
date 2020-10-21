@@ -22,8 +22,8 @@ sofern sie nicht ausgeblendet werden.
 
 1) Öffne die Webseite [kanti-glarus.ch](https://kanti-glarus.ch) in einem neuen Browserfenster
 2) Öffne nun die Entwickler-Umgebung und schau den Quellcode der Webseite an:
-    1) Google Chrome: Rechtsklick und dann "Untersuchen"
-    2) Firefox: Rechsklick und dann "Element untersuchen"
+    1) `Google Chrome`: Rechtsklick und dann "**Untersuchen**"
+    2) `Firefox`: Rechsklick und dann "**Element untersuchen**"
 3) Schau dir die Inhalte vom `body`- und vom `head`-Bereich an.
 
 
@@ -49,7 +49,7 @@ Hier ein paar Beispiele, wie das ausschauen kann:
 
 ```html
 <p>Hier kommt irgendein Inhaltstext hinein</p>
-<p hidden>Dieser versteckt ist anhand der Attribute wohl versteckt</p>
+<p hidden>Dieser Inhalt ist aufgrund des Attributes "hidden" wahrscheinlich versteckt</p>
 <p class="small">Dieser Text hat die Klasse "small" erhalten</p>
 ```
 
