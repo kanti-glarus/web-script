@@ -252,7 +252,7 @@ div {
 ```
 
 Anordnungen können im modernen Web auch mit Hilfe der Optionen [grid](https://www.w3schools.com/cssref/pr_grid.asp) und [flex](https://www.w3schools.com/cssref/css3_pr_flex.asp) definiert werden. Dazu finden sich im WWW diverse [Anleitungen](https://medium.com/sketch-app-sources/css-grid-einf%C3%BChrung-in-5-minuten-verstehen-und-in-sketch-umsetzen-9e9e8a16b07e)
-und [Chet-Sheets](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
+und [Cheat-Sheets](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 
 ### Mobile & Responsive
 
