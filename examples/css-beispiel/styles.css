@@ -1,0 +1,38 @@
+body {
+    background-color: green;
+}
+
+#test {
+    background-color: blue;
+}
+
+body {
+    background-color: turquoise;
+    margin: 0;
+}
+
+.zeile .box {
+    padding: 20px;
+    border: 1px solid black;
+    flex-grow: 1;
+    background-color: rgba(128, 128, 0, 0.2);
+    transition: background-color 1000ms;
+}
+
+.zeile .box:hover {
+    background-color: rgba(128, 128, 0, 0.8);
+}
+
+.box.-wide {
+    height: 300px;
+}
+
+.zeile {
+    display: flex;
+}
+
+.container {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+}
