@@ -18,7 +18,7 @@ Inline-Elemente werden gemeinsam mit dem Inhalt geladen und ausgeführt.
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="script" href="link/zum/javascript/header/script.js" />
+        <script src="link/zum/javascript/header/script.js"></script>
     </head>
     <body>
         <!-- Inhalt -->
