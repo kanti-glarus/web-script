@@ -149,6 +149,21 @@ Die allerwichtigsten möchten wir hier aber auflisten und erläutern.
 <img src="https://via.placeholder.com/350x150" />
 Ein Bild mit der Bildquelle.
 ```
+### Links
+
+Ein Link zu einer anderen Seite oder zu einer externen Webseite kannst du mit dem `<a>`-Element erstellen.
+
+```html
+<a href="link/zu/einer/internen/seite">Linktitel</a>
+
+<a href="https://www.link-zu-externen-seite" target="_blank">Linktitel</a>
+
+<a href="#">Link zur aktuellen Seite</a>
+```
+
+Mit dem `target`-Attribut kannst du steuern, ob die Seite im aktuellen Fenster geöffnet wird, oder ob du sie in einem neuen Tab / Fenster öffnen lassen möchtest.
+Dafür musst du deinem Link `target="_blank"` hinzufügen.
+
 ---
 
 ## Ausprobieren
